@@ -8,5 +8,5 @@ Pour l'export, copier le code suivant :
 
 ```sql    
 %Y_%m_%d_%H%M%S_@DATABASE@_@SERVER@
-```    
-# 0022-SQL-Modele_de_Nommage_Dump_MySQL
+```
+
